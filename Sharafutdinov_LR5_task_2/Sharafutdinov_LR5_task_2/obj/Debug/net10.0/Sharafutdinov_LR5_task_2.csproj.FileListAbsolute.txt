@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\tusk_2\Sharafutdinov_LR5_task_2\Sharafutdinov_LR5_task_2\bin\Debug\net10.0\Sharafutdinov_LR5_task_2.exe
+C:\Users\User\Desktop\tusk_2\Sharafutdinov_LR5_task_2\Sharafutdinov_LR5_task_2\bin\Debug\net10.0\Sharafutdinov_LR5_task_2.deps.json
+C:\Users\User\Desktop\tusk_2\Sharafutdinov_LR5_task_2\Sharafutdinov_LR5_task_2\bin\Debug\net10.0\Sharafutdinov_LR5_task_2.runtimeconfig.json
+C:\Users\User\Desktop\tusk_2\Sharafutdinov_LR5_task_2\Sharafutdinov_LR5_task_2\bin\Debug\net10.0\Sharafutdinov_LR5_task_2.dll
+C:\Users\User\Desktop\tusk_2\Sharafutdinov_LR5_task_2\Sharafutdinov_LR5_task_2\bin\Debug\net10.0\Sharafutdinov_LR5_task_2.pdb
+C:\Users\User\Desktop\tusk_2\Sharafutdinov_LR5_task_2\Sharafutdinov_LR5_task_2\obj\Debug\net10.0\Sharafutdinov_LR5_task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\tusk_2\Sharafutdinov_LR5_task_2\Sharafutdinov_LR5_task_2\obj\Debug\net10.0\Sharafutdinov_LR5_task_2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\tusk_2\Sharafutdinov_LR5_task_2\Sharafutdinov_LR5_task_2\obj\Debug\net10.0\Sharafutdinov_LR5_task_2.AssemblyInfo.cs
+C:\Users\User\Desktop\tusk_2\Sharafutdinov_LR5_task_2\Sharafutdinov_LR5_task_2\obj\Debug\net10.0\Sharafutdinov_LR5_task_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tusk_2\Sharafutdinov_LR5_task_2\Sharafutdinov_LR5_task_2\obj\Debug\net10.0\Sharafutdinov_LR5_task_2.dll
+C:\Users\User\Desktop\tusk_2\Sharafutdinov_LR5_task_2\Sharafutdinov_LR5_task_2\obj\Debug\net10.0\refint\Sharafutdinov_LR5_task_2.dll
+C:\Users\User\Desktop\tusk_2\Sharafutdinov_LR5_task_2\Sharafutdinov_LR5_task_2\obj\Debug\net10.0\Sharafutdinov_LR5_task_2.pdb
+C:\Users\User\Desktop\tusk_2\Sharafutdinov_LR5_task_2\Sharafutdinov_LR5_task_2\obj\Debug\net10.0\Sharafutdinov_LR5_task_2.genruntimeconfig.cache
+C:\Users\User\Desktop\tusk_2\Sharafutdinov_LR5_task_2\Sharafutdinov_LR5_task_2\obj\Debug\net10.0\ref\Sharafutdinov_LR5_task_2.dll
